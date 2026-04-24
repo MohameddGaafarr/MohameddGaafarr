@@ -77,12 +77,7 @@ const mohamed = {
 ## Connect With Me
 
 - GitHub: [https://github.com/MohameddGaaferr](https://github.com/MohameddGaafarr)
-- Email: mohamedgaafar1332002@email.com
-- WhatsApp: 01065668519
+- Email: mohamedgaafar1332002@gmail.com
 
 
-<div align="center">
 
-🔥 Thanks for visiting my profile 🔥
-
-</div> ```
