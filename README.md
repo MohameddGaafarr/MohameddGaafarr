@@ -74,13 +74,6 @@ const mohamed = {
 ---
 
 
-## Contribution Snake
-
-<div align="center"> <img src="https://raw.githubusercontent.com/MohameddGaaferr/MohameddGaaferr/output/github-contribution-grid-snake.svg" /> </div> 
-
----
-
-
 ## Connect With Me
 
 - GitHub: https://github.com/MohameddGaaferr
