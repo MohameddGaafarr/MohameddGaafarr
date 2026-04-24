@@ -41,23 +41,33 @@
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
 
 ---
-
 ## 🧠 Code Mindset
 
 ```js
 const mohamed = {
   role: "Full Stack Developer",
-  stack: ["React", "Vite", "Tailwind", "Node.js", "Express", "Python"],
+  frontend: ["React", "Vite", "Tailwind"],
+  backend: ["Node.js", "Express", "Python"],
   databases: ["MongoDB", "MySQL", "SQLite", "SQL Server"],
-  tools: ["Git", "Postman", "Figma","VS Code","Photoshop","GIMP"],
+  tools: ["Git", "Postman", "Figma", "Photoshop", "GIMP"],
   mindset: "Code. Learn. Improve. Repeat."
 };
 ```
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="32%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="32%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="32%" /> </div>
+📂 Featured Projects
+🔥 PlayStation Café System
+Full system to manage devices, sessions, pricing & users
+🚀 Swimming Academy System
+Manage trainees, coaches & sessions with admin dashboard
+💳 Credit Card Fraud Detection
+Machine learning model using Python & TensorFlow
