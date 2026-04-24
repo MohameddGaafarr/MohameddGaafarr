@@ -64,10 +64,38 @@ const mohamed = {
 };
 ```
 
-📂 Featured Projects
-🔥 PlayStation Café System
-Full system to manage devices, sessions, pricing & users
-🚀 Swimming Academy System
-Manage trainees, coaches & sessions with admin dashboard
-💳 Credit Card Fraud Detection
-Machine learning model using Python & TensorFlow
+## Featured Projects
+
+- Swimming Academy System :
+  Manage trainees, coaches & sessions with admin dashboard
+- PlayStation Café System :
+  Full system to manage devices, sessions, pricing & users  
+
+---
+
+
+## GitHub Stats
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="32%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="32%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="32%" /> </div>
+---
+
+
+## Contribution Snake
+
+<div align="center"> <img src="https://raw.githubusercontent.com/MohameddGaaferr/MohameddGaaferr/output/github-contribution-grid-snake.svg" /> </div> 
+
+---
+
+
+## Connect With Me
+
+- GitHub: https://github.com/MohameddGaaferr
+- Email: mohamedgaafar1332002@email.com
+- WhatsApp: 01065668519
+
+
+<div align="center">
+
+🔥 Thanks for visiting my profile 🔥
+
+</div> ```
