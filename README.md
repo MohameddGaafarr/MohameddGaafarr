@@ -69,9 +69,10 @@ const mohamed = {
 ## Featured Projects
 
 <ul>
-  <li><a href="https://github.com/MohameddGaafarr/swimax-system.git"><b> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+  <li><a href="https://github.com/MohameddGaafarr/swimax-system.git"><b> Swimming Academy System</b></a><br/><i> Manage trainees, coaches & sessions with admin dashboard.</i></li>
+  <li><a href="https://github.com/MohameddGaafarr/swimax-system.git"><b>PlayStation Café System</b></a><br/><i> Full system to manage devices, sessions, pricing & users.</i></li>
 </ul>  
----
+---  
 
 
 <h3>Where to find me</h3>
