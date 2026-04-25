@@ -68,11 +68,9 @@ const mohamed = {
 
 ## Featured Projects
 
-- Swimming Academy System :
-  Manage trainees, coaches & sessions with admin dashboard
-- PlayStation Café System :
-  Full system to manage devices, sessions, pricing & users  
-
+<ul>
+  <li><a href="https://github.com/MohameddGaafarr/swimax-system.git"><b> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+</ul>  
 ---
 
 
