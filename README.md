@@ -64,6 +64,8 @@ const mohamed = {
 };
 ```
 
+---
+
 ## Featured Projects
 
 - Swimming Academy System :
