@@ -69,7 +69,7 @@ const mohamed = {
 ## Featured Projects
 
 <ul>
-  <li><a href="https://github.com/MohameddGaafarr/SWIMAX-Academy-demo.git"><b> Swimming Academy System</b></a><br/><i> A full-stack swimming academy management platform featuring coach & trainee management, session scheduling, attendance tracking, payroll logic, and real-time dashboard analytics with a fully responsive modern UI.</i></li>
+  <li><a href="https://github.com/MohameddGaafarr/SWIMAX-Academy-demo.git"><b> SWIMAX Academy System</b></a><br/><i> A full-stack swimming academy management platform featuring coach & trainee management, session scheduling, attendance tracking, payroll logic, and real-time dashboard analytics with a fully responsive modern UI.</i></li>
   <li><a href="https://github.com/MohameddGaafarr/swimax-system.git"><b>PlayStation Café System</b></a><br/><i> Full system to manage devices, sessions, pricing & users.</i></li>
 </ul>  
 ---  
