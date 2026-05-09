@@ -70,7 +70,8 @@ const mohamed = {
 
 <ul>
   <li><a href="https://github.com/MohameddGaafarr/SWIMAX-Academy-demo.git"><b> SWIMAX Academy System</b></a><br/><i> A full-stack swimming academy management platform featuring coach & trainee management, session scheduling, attendance tracking, payroll logic, and real-time dashboard analytics with a fully responsive modern UI.</i></li>
-  <li><a href="https://github.com/MohameddGaafarr/playstation-cafe-demo.git"><b>PlayStation Café System</b></a><br/><i> Full system to manage devices, sessions, pricing & users.</i></li>
+  <li><a href="https://github.com/MohameddGaafarr/playstation-cafe-demo.git"><b>PlayStation Café System</b></a><br/><i> full-stack PlayStation café management platform built to manage consoles, gaming sessions, users, pricing, payments, and operational activity from a centralized admin dashboard.
+Features real-time session management, automated billing workflows, activity monitoring, and a responsive modern interface for efficient café operations.</i></li>
 </ul>  
 ---  
 
